@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.form-input{
+    border:2px solid gray;
+    border-radius:10px;
+    margin-left:5px;
+    text-indent:5px;
+}
+
+.btn-primary{
+    border:none;
+    border-radius: 10px;
+}
